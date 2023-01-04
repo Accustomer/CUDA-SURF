@@ -14,5 +14,7 @@ Repeat the test 100 times took an average of 6.5ms on NVIDIA GeForce GTX 1080:
 
 # Reference
 https://github.com/herbertbay/SURF
+
 https://github.com/Celebrandil/CudaSift
+
 https://people.ee.ethz.ch/~surf/eccv06.pdf
